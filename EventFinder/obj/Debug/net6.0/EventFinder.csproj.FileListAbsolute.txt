@@ -1,0 +1,15 @@
+D:\projeto base\EventFinder\EventFinder\EventFinder\bin\Debug\net6.0\EventFinder.exe
+D:\projeto base\EventFinder\EventFinder\EventFinder\bin\Debug\net6.0\EventFinder.deps.json
+D:\projeto base\EventFinder\EventFinder\EventFinder\bin\Debug\net6.0\EventFinder.runtimeconfig.json
+D:\projeto base\EventFinder\EventFinder\EventFinder\bin\Debug\net6.0\EventFinder.dll
+D:\projeto base\EventFinder\EventFinder\EventFinder\bin\Debug\net6.0\EventFinder.pdb
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.csproj.AssemblyReference.cache
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.AssemblyInfoInputs.cache
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.AssemblyInfo.cs
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.csproj.CoreCompileInputs.cache
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.dll
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\refint\EventFinder.dll
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.pdb
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\EventFinder.genruntimeconfig.cache
+D:\projeto base\EventFinder\EventFinder\EventFinder\obj\Debug\net6.0\ref\EventFinder.dll
